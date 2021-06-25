@@ -1,4 +1,4 @@
-# Robot-controllers
+# Robot-Arm-controllers
 
 <img src="images/interface.png">
 
