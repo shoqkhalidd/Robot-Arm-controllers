@@ -219,7 +219,7 @@ button[class="h"]{
 button[class="f"]{
   margin-right: 80px;
   margin-top: 40px;
-  margin-left: 80px ;
+  margin-left: 70px ;
 }
 
 
@@ -325,7 +325,7 @@ button[type="submit"]:hover{
   cursor: pointer;
 }
 
-@media (min-width: 768px ) and (max-width: 1199px )
+@media (min-width: 400px ) and (max-width: 1100px )
 {
   .background{
   
