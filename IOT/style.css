@@ -22,7 +22,7 @@ h1{
 
 .background{
   
-height: 400px;
+  height: 400px;
   width: 800px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -42,7 +42,7 @@ height: 400px;
   right:25%;
   left:25%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: 350px;
   height: 400px;
   background: #222e7ca6;
   box-sizing: border-box;
@@ -156,7 +156,7 @@ height: 400px;
   right:75%;
   left:75%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: 350px;
   height: 400px;
   background: #222e7ca6;
   box-sizing: border-box;
@@ -212,14 +212,14 @@ button[type="submit"]{
 }
 button[class="h"]{
   margin-left: -1px;
-  margin-right: 5px;
+  margin-right: 6px;
 
 
 }
 button[class="f"]{
-  margin-right: 34px;
+  margin-right: 80px;
   margin-top: 40px;
-  margin-left: 34px ;
+  margin-left: 80px ;
 }
 
 
@@ -325,7 +325,7 @@ button[type="submit"]:hover{
   cursor: pointer;
 }
 
-@media (max-width: 768px)
+@media (min-width: 768px ) and (max-width: 1199px )
 {
   .background{
   
